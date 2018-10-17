@@ -1,0 +1,22 @@
+{
+  "name": "CoreHTTP",
+  "version": "0.1.0",
+  "summary": "A short description of CoreHTTP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jim.zhang@oceanwing.com/CoreHTTP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jim.zhang@oceanwing.com": "jim.zhang@anker.com"
+  },
+  "source": {
+    "git": "https://github.com/jim.zhang@oceanwing.com/CoreHTTP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreHTTP/Classes/**/*"
+}
